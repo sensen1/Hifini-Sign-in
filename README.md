@@ -8,3 +8,6 @@ Settings => Secrets => New secret
 
 
 [原作者](https://github.com/AlanLang/hifini-auto-sign-in)
+
+###
+https://www.jiangjunnan.com/d/290-hifiniqian-dao-cookiedui-bi
