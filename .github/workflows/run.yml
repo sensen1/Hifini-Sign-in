@@ -18,7 +18,7 @@ jobs:
             - name: Set go
               uses: actions/setup-go@v5
               with:
-                go-version: '1.16.1'
+                go-version: '^1.14'
             - name: hifini auto sign in
               env:
                 COOKIE: ${{ secrets.COOKIE }}
